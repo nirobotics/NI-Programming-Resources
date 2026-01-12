@@ -60,19 +60,19 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>Phoenix6</b></td>
-    <td align="center">25.4.0</td>
+    <td align="center">26.1.0</td>
     <td align="center"><a href="https://github.com/CrossTheRoadElec/Phoenix-Releases/releases">🔗</a></td>
     <td align="center">N/A</td>
-    <td align="center"><a href="https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/download/v25.2.2/Phoenix-Offline_v25.2.2.exe">📥</a></td>
-    <td align="center"><a href="https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2025-latest.json">📦</a></td>
+    <td align="center"><a href="https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/download/v26.1.0/Phoenix-Offline_v26.1.0.exe">📥</a></td>
+    <td align="center"><a href="https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2026-latest.json">📦</a></td>
   </tr>
   <tr>
     <td align="center"><b>Phoenix5</b></td>
-    <td align="center">5.35.1</td>
+    <td align="center">5.36.0</td>
     <td align="center"><a href="https://github.com/CrossTheRoadElec/Phoenix-Releases/releases">🔗</a></td>
     <td align="center">N/A</td>
     <td align="center">N/A</td>
-    <td align="center"><a href="https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2025-latest.json">📦</a></td>
+    <td align="center"><a href="https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2026-latest.json">📦</a></td>
   </tr>
   <tr>
     <td align="center"><b>REV Hardware Client</b></td>
@@ -84,19 +84,19 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>REVLib</b></td>
-    <td align="center">2025.0.3</td>
+    <td align="center">2026.0.0</td>
     <td align="center"><a href="https://docs.revrobotics.com/revlib/install">🔗</a></td>
     <td align="center">N/A</td>
     <td align="center">N/A</td>
-    <td align="center"><a href="https://software-metadata.revrobotics.com/REVLib-2025.json">📦</a></td>
+    <td align="center"><a href="https://software-metadata.revrobotics.com/REVLib-2026.json">📦</a></td>
   </tr>
   <tr>
     <td align="center"><b>PhotonVision</b></td>
-    <td align="center">2025.3.2</td>
+    <td align="center">2026.0.1-beta</td>
     <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases">🔗</a></td>
     <td align="center">N/A</td>
-    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2025.3.2/photonvision-v2025.3.2-linuxarm64_rock5c.img.xz">📥</a></td>
-    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2025.3.2/photonlib-v2025.3.2.json">📦</a></td>
+    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2026.0.1-beta/photonvision-v2026.0.1-beta-linuxarm64_rock5c.img.xz">📥</a></td>
+    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2026.0.1-beta/photonlib-v2026.0.1-beta.json">📦</a></td>
   </tr>
     <tr>
     <td align="center"><b>PhotonVision-Acapella</b></td>
@@ -111,34 +111,34 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>Choreo</b></td>
-    <td align="center">2025.0.3</td>
+    <td align="center">2026.0.1</td>
     <td align="center"><a href="https://github.com/SleipnirGroup/Choreo/releases">🔗</a></td>
-    <td align="center"><a href="https://github.com/SleipnirGroup/Choreo/releases/download/v2025.0.3/Choreo-v2025.0.3-macOS-aarch64.dmg">📥</a></td>
-    <td align="center"><a href="https://github.com/SleipnirGroup/Choreo/releases/download/v2025.0.3/Choreo-v2025.0.3-Windows-x86_64-setup.exe">📥</a></td>
-    <td align="center"><a href="https://lib.choreo.autos/dep/ChoreoLib2025.json">📦</a></td>
+    <td align="center"><a href="https://github.com/SleipnirGroup/Choreo/releases/download/v2026.0.1/Choreo-v2026.0.1-macOS-aarch64.dmg">📥</a></td>
+    <td align="center"><a href="https://github.com/SleipnirGroup/Choreo/releases/download/v2026.0.1/Choreo-v2026.0.1-Windows-x86_64-setup.exe">📥</a></td>
+    <td align="center"><a href="https://lib.choreo.autos/dep/ChoreoLib2026Beta.json">📦</a></td>
   </tr>
   <tr>
     <td align="center"><b>Elastic</b></td>
-    <td align="center">2025.2.2</td>
+    <td align="center">2026.0.0</td>
     <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases">🔗</a></td>
-    <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases/download/v2025.2.2/elastic-setup-macos.dmg">📥</a></td>
-    <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/releases/download/v2025.2.2/elastic-setup-windows.exe">📥</a></td>
+    <td align="center"><a href="https://github.com/Gold872/elastic_dashboard/releases/download/v2026.0.0/elastic-setup-macos.dmg">📥</a></td>
+    <td align="center"><a href="https://github.com/Gold872/elastic_dashboard/releases/download/v2026.0.0/elastic-setup-windows.exe">📥</a></td>
     <td align="center"><a href="https://github.com/Gold872/elastic-dashboard/blob/main/elasticlib/Elastic.java">📦</a></td>
   </tr>
   <tr>
     <td align="center"><b>Advantage Kit</b></td>
-    <td align="center">4.1.2</td>
+    <td align="center">26.0.0</td>
     <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageKit/releases">🔗</a></td>
     <td align="center">N/A</td>
     <td align="center">N/A</td>
-    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageKit/releases/download/v4.1.2/AdvantageKit.json">📦</a></td>
+    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageKit/releases/download/v26.0.0/AdvantageKit.json">📦</a></td>
   </tr>
   <tr>
     <td align="center"><b>Advantage Scope</b></td>
-    <td align="center">4.1.6</td>
+    <td align="center">26.0.0</td>
     <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases">🔗</a></td>
-    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases/download/v27.0.0-alpha-4/advantagescope-mac-arm64-v27.0.0-alpha-4.dmg">📥</a></td>
-    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases/download/v4.1.6/advantagescope-win-x64-v4.1.6.exe">📥</a></td>
+    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases/download/v26.0.0/advantagescope-mac-arm64-v26.0.0.dmg">📥</a></td>
+    <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases/download/v26.0.0/advantagescope-win-x64-v26.0.0.exe">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
@@ -146,10 +146,10 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
       <tr>
     <td align="center"><b>Git</b></td>
-    <td align="center">2.51.2</td>
+    <td align="center">2.52.0</td>
     <td align="center"><a href="https://git-scm.com/install/windows">🔗</a></td>
     <td align="center">N/A</td>
-    <td align="center"><a href="https://github.com/git-for-windows/git/releases/download/v2.51.2.windows.1/Git-2.51.2-64-bit.exe">📥</a></td>
+    <td align="center"><a href="https://github.com/git-for-windows/git/releases/download/v2.52.0.windows.1/Git-2.52.0-64-bit.exe">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
