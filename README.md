@@ -115,7 +115,7 @@ A comprehensive collection of essential software resources for NI core developme
     <td align="center"><a href="https://github.com/SleipnirGroup/Choreo/releases">🔗</a></td>
     <td align="center"><a href="https://github.com/SleipnirGroup/Choreo/releases/download/v2026.0.1/Choreo-v2026.0.1-macOS-aarch64.dmg">📥</a></td>
     <td align="center"><a href="https://github.com/SleipnirGroup/Choreo/releases/download/v2026.0.1/Choreo-v2026.0.1-Windows-x86_64-setup.exe">📥</a></td>
-    <td align="center"><a href="https://lib.choreo.autos/dep/ChoreoLib2026Beta.json">📦</a></td>
+    <td align="center"><a href="https://choreo.autos/lib/ChoreoLib2026.json">📦</a></td>
   </tr>
   <tr>
     <td align="center"><b>Elastic</b></td>
