@@ -41,10 +41,10 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>FRC Game Tools</b></td>
-    <td align="center">2025 Patch 1</td>
-    <td align="center"><a href="https://www.ni.com/zh-cn/support/downloads/drivers/download.frc-game-tools.html">🔗</a></td>
+    <td align="center">2026</td>
+    <td align="center"><a href="https://www.ni.com/zh-cn/support/downloads/drivers/download.frc-game-tools.html#581857">🔗</a></td>
     <td align="center">N/A</td>
-    <td align="center"><a href="https://download.ni.com/support/nipkg/products/ni-f/ni-frc-2025-game-tools/25.0/offline/ni-frc-2025-game-tools_25.0.1_offline.iso">📥</a></td>
+    <td align="center"><a href="https://download.ni.com/support/nipkg/products/ni-f/ni-frc-2026-game-tools/26.0/offline/ni-frc-2026-game-tools_26.0.0_offline.iso">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
