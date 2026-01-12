@@ -49,10 +49,10 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>IntelliJ IDEA</b></td>
-    <td align="center">2025.2</td>
+    <td align="center">2025.3.1.1</td>
     <td align="center"><a href="https://www.jetbrains.com/idea/download/?section=windows">🔗</a></td>
-    <td align="center"><a href="https://download.jetbrains.com/idea/ideaIU-2025.2.4-aarch64.dmg?_gl=1*1uxu14t*_gcl_au*Mjc1ODgwODY3LjE3NjMyNzA3NDM.*FPAU*Mjc1ODgwODY3LjE3NjMyNzA3NDM.*_ga*MTI3OTEyNTcyNi4xNzYzMjcwNzQz*_ga_9J976DJZ68*czE3NjMyNzA3NDEkbzEkZzEkdDE3NjMyNzA3NjUkajM2JGwwJGgw">📥</a></td>
-    <td align="center"><a href="https://download.jetbrains.com/idea/ideaIU-2025.2.exe?_gl=1*8o8b4x*_gcl_au*MzM5MDg0MTM5LjE3NTYzOTY5ODY.*FPAU*MzM5MDg0MTM5LjE3NTYzOTY5ODY.*_ga*NDU3MTA4NjM2LjE3NTYzOTY5OTA.*_ga_9J976DJZ68*czE3NTYzOTY5ODckbzEkZzEkdDE3NTYzOTY5OTAkajU3JGwwJGgw">📥</a></td>
+    <td align="center"><a href="https://download.jetbrains.com/idea/idea-2025.3.1.1-aarch64.dmg?_gl=1*1h07q6d*_gcl_au*Mjc1ODgwODY3LjE3NjMyNzA3NDM.*FPAU*Mjc1ODgwODY3LjE3NjMyNzA3NDM.*_ga*MTI3OTEyNTcyNi4xNzYzMjcwNzQz*_ga_9J976DJZ68*czE3NjgxOTEwODQkbzMkZzEkdDE3NjgxOTExNDUkajU5JGwwJGgw">📥</a></td>
+    <td align="center"><a href="https://download.jetbrains.com/idea/idea-2025.3.1.1.exe?_gl=1*1e4ydic*_gcl_au*Mjc1ODgwODY3LjE3NjMyNzA3NDM.*FPAU*Mjc1ODgwODY3LjE3NjMyNzA3NDM.*_ga*MTI3OTEyNTcyNi4xNzYzMjcwNzQz*_ga_9J976DJZ68*czE3NjgxOTEwODQkbzMkZzEkdDE3NjgxOTEwOTgkajQ2JGwwJGgw">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
