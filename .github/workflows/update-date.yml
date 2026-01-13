@@ -23,20 +23,12 @@ jobs:
     
     - name: Update Date in README
       run: |
-        # 获取当前日期
         NEW_DATE=$(date +%Y.%m.%d)
         echo "New date: $NEW_DATE"
         
-        # 调试：显示要匹配的内容
         echo "=== Matching pattern ==="
         grep -o "https://img.shields.io/badge/Date-[^)]*" README.md || echo "No match found"
-        
-        # 使用更简单的替换 - 只替换日期部分
-        # 方法1: 替换整个 URL
         sed -i "s|https://img.shields.io/badge/Date-[0-9.]\{4,\}-blue?style=for-the-badge|https://img.shields.io/badge/Date-${NEW_DATE}-blue?style=for-the-badge|g" README.md
-        
-        # 方法2: 或者只替换日期部分
-        # sed -i "s|Date-[0-9]\{4\}\.[0-9]\{1,2\}\.[0-9]\{1,2\}|Date-${NEW_DATE}|g" README.md
         
         echo "=== After replacement ==="
         grep -n "Date.*badge" README.md
