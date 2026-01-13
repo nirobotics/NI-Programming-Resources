@@ -1,11 +1,11 @@
 # NI Programming Resources
 
 <div align="center">
-<img src="./ni.svg" alt="nextinnovation" width="452" style="margin-left: -4px;">
+<img src="./ni.svg" alt="nextinnovation" width="466" style="margin-left: -5px;">
 
 [![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=for-the-badge)](https://github.com/FRCNextInnovation)
 [![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=for-the-badge)]()
-[![Date](https://img.shields.io/badge/Date-2025.4.5-blue?style=for-the-badge)]()
+[![Date](https://img.shields.io/badge/Date-2025.04.05-blue?style=for-the-badge)]()
 </div>
 
 ## 📝 Introduction
