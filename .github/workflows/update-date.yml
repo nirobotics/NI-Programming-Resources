@@ -1,0 +1,42 @@
+name: Update Date Badge
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Debug - Show current README content
+      run: |
+        echo "=== Current README Date badge line ==="
+        grep -n "Date.*badge" README.md || echo "No Date badge found"
+        echo "=== End ==="
+    
+    - name: Update Date in README
+      run: |
+        NEW_DATE=$(date +%Y.%m.%d)
+        echo "New date: $NEW_DATE"
+        
+        echo "=== Matching pattern ==="
+        grep -o "https://img.shields.io/badge/Date-[^)]*" README.md || echo "No match found"
+        sed -i "s|https://img.shields.io/badge/Date-[0-9.]\{4,\}-blue?style=for-the-badge|https://img.shields.io/badge/Date-${NEW_DATE}-blue?style=for-the-badge|g" README.md
+        
+        echo "=== After replacement ==="
+        grep -n "Date.*badge" README.md
+    
+    - name: Auto Commit Changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "docs: update date to $(date +'%Y.%m.%d')"
+        file_pattern: README.md
+        commit_user_name: "github-actions[bot]"
+        commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
