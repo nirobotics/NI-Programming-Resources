@@ -33,10 +33,10 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>WPILib</b></td>
-    <td align="center">2026.1.1</td>
+    <td align="center">2026.2.1</td>
     <td align="center"><a href="https://github.com/wpilibsuite/allwpilib/releases">🔗</a></td>
-    <td align="center"><a href="https://packages.wpilib.workers.dev/installer/v2026.1.1/macOSArm/WPILib_macOS-Arm64-2026.1.1.dmg">📥</a></td>
-    <td align="center"><a href="https://packages.wpilib.workers.dev/installer/v2026.1.1/Win64/WPILib_Windows-2026.1.1.iso">📥</a></td>
+    <td align="center"><a href="https://packages.wpilib.workers.dev/installer/v2026.2.1/macOSArm/WPILib_macOS-Arm64-2026.2.1.dmg">📥</a></td>
+    <td align="center"><a href="https://packages.wpilib.workers.dev/installer/v2026.2.1/Win64/WPILib_Windows-2026.2.1.iso">📥</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
