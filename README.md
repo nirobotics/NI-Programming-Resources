@@ -5,7 +5,7 @@
 
 [![Next-Innovation](https://img.shields.io/badge/Next-Innovation-blueviolet?style=for-the-badge)](https://github.com/FRCNextInnovation)
 [![Lang](https://img.shields.io/badge/Lang-en--US-Green?style=for-the-badge)]()
-[![Date](https://img.shields.io/badge/Date-2026.01.15-blue?style=for-the-badge)]()
+[![Date](https://img.shields.io/badge/Date-2026.01.18-blue?style=for-the-badge)]()
 </div>
 
 ## 📝 Introduction
