@@ -84,7 +84,7 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>REVLib</b></td>
-    <td align="center">2026.0.0</td>
+    <td align="center">2026.0.1</td>
     <td align="center"><a href="https://docs.revrobotics.com/revlib/install">🔗</a></td>
     <td align="center">N/A</td>
     <td align="center">N/A</td>
