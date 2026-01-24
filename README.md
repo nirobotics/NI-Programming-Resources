@@ -141,6 +141,14 @@ A comprehensive collection of essential software resources for NI core developme
     <td align="center"><a href="https://github.com/Mechanical-Advantage/AdvantageScope/releases/download/v26.0.0/advantagescope-win-x64-v26.0.0.exe">📥</a></td>
     <td align="center">N/A</td>
   </tr>
+    <tr>
+    <td align="center"><b>Maple Sim</b></td>
+    <td align="center">0.4.0-beta</td>
+    <td align="center"><a href="https://github.com/Shenzhen-Robotics-Alliance/maple-sim/releases">🔗</a></td>
+    <td align="center">N/A</td>
+    <td align="center">N/A</td>
+    <td align="center"><a href="https://github.com/Shenzhen-Robotics-Alliance/maple-sim/releases/download/v0.4.0-beta/maple-sim.json">📦</a></td>
+  </tr>
   <tr>
     <td align="center" colspan="6"><b>🔧 Utilities</b></td>
   </tr>
