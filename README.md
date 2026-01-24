@@ -92,7 +92,7 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>PhotonVision</b></td>
-    <td align="center">2026.1.1/td>
+    <td align="center">2026.1.1</td>
     <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases">🔗</a></td>
     <td align="center">N/A</td>
     <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2026.1.1/photonvision-v2026.1.1-linuxarm64_rock5c.img.xz">📥</a></td>
