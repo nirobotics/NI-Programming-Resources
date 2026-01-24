@@ -92,11 +92,11 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>PhotonVision</b></td>
-    <td align="center">2026.0.1-beta</td>
+    <td align="center">2026.1.1/td>
     <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases">🔗</a></td>
     <td align="center">N/A</td>
-    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2026.0.1-beta/photonvision-v2026.0.1-beta-linuxarm64_rock5c.img.xz">📥</a></td>
-    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2026.0.1-beta/photonlib-v2026.0.1-beta.json">📦</a></td>
+    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2026.1.1/photonvision-v2026.1.1-linuxarm64_rock5c.img.xz">📥</a></td>
+    <td align="center"><a href="https://github.com/PhotonVision/photonvision/releases/download/v2026.1.1/photonlib-v2026.1.1.json">📦</a></td>
   </tr>
     <tr>
     <td align="center"><b>PhotonVision-Acapella</b></td>
