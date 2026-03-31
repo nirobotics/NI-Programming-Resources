@@ -60,10 +60,10 @@ A comprehensive collection of essential software resources for NI core developme
   </tr>
   <tr>
     <td align="center"><b>Phoenix6</b></td>
-    <td align="center">26.1.2</td>
+    <td align="center">26.1.3</td>
     <td align="center"><a href="https://github.com/CrossTheRoadElec/Phoenix-Releases/releases">🔗</a></td>
     <td align="center">N/A</td>
-    <td align="center"><a href="https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/download/v26.2.0/Phoenix-Offline_v26.1.2.exe">📥</a></td>
+    <td align="center"><a href="https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/download/v26.1.3/Phoenix-Offline_v26.1.3.exe">📥</a></td>
     <td align="center"><a href="https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2026-latest.json">📦</a></td>
   </tr>
   <tr>
